@@ -1,1 +1,7 @@
-<strong>Apollo13</strong>
+Apollo13
+
+A maze game in which you are one of the survivors when the space shuttle came crashing down. You are to find all necessary items and find the exit in mist of chaos within a specific time period before the space shuttle hits solid ground.
+
+Instructions to run game:
+1) Double click the .sln and lauch it with Visual Studio 2010 or better
+2) Build the solution by pressing F5
