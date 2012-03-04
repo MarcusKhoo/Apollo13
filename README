@@ -3,6 +3,8 @@ Apollo13
 A maze game in which you are one of the survivors when the space shuttle came crashing down. 
 You are to find all necessary items and find the exit in mist of chaos within a specific time period before the space shuttle hits solid ground.
 
+Written in C++ DirectX 9
+
 Instructions to run game:
 1) You need Visual Studio 2010
 2) You need DirectX 9
